@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import ExchangeRates from './pages/ExchangeRates/ExchangeRates'
 import Header from './components/Header/Header'
 
